@@ -1,3 +1,6 @@
 .card-comments img {
     width: 4rem;
 }
+.articles li.media img {
+    width: 5rem;
+}
